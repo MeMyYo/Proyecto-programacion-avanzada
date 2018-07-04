@@ -1,0 +1,19 @@
+Orden de creacion de entidades:
+
+>Pais
+	-Ciudad
+		-Cliente
+		-Categoria
+		-Biblioteca
+			-Funcionario
+			-ClienteBiblioteca
+			-Estante
+			-Libro
+			-Computador
+			-SalaDeLectura
+		-Autor
+			-Autores	
+		-RegistroSalaLectura
+		-SolicitudComputador
+		-SolicitudLibro
+		-EntregaDeLibro
